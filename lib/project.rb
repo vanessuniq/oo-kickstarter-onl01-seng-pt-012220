@@ -1,5 +1,8 @@
 class Project
+<<<<<<< HEAD
   attr_accessor :backer
+=======
+>>>>>>> f548cb63871110ec31e829a5e1a0f691d48879de
   attr_reader :backers, :title
   
   def initialize(title)
